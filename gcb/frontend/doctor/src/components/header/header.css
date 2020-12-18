@@ -1,0 +1,17 @@
+header{
+    
+    background: black;
+    font-weight: bold;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    text-decoration: none;
+    
+}
+
+header h3{
+    color: white;
+    margin: 20px;
+    text-decoration: none;
+}

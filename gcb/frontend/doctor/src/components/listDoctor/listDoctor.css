@@ -1,0 +1,129 @@
+
+.appList{
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    align-items: center;
+    max-width: 50%;
+    width: 900px;
+    max-height: 50%;
+    height: 500px;
+    margin: 30px auto;
+    
+    
+    
+}
+
+.appList .itemList{
+    background: #fff;
+    border-radius: 9px;
+    padding: 25px;
+    margin: 30px auto;
+    width: 700px;
+    
+
+}
+
+.appList .itemList #btnDeletar{
+background: #6550b7;
+padding: 10px;
+border-radius: 5px;
+border:none;
+color: #fff;
+font-weight: bold;
+width: 160px;
+margin-bottom: 15px;
+cursor: pointer;
+}
+
+.appList .itemList #btnAlterar{
+background: #fff;
+padding: 10px;
+border-radius: 5px;
+border:solid 1px;
+color: #6550b7;
+font-weight: bold;
+width: 160px;
+margin-bottom: 15px;
+cursor: pointer;
+border-color: #6550b7;
+margin-right: 20px;
+}
+
+p{
+    color: rgb(88, 86, 86)
+}
+
+#busca{
+    align-items: center;
+    padding: 12px;
+    margin: 0 auto;
+    border: 22px;
+    border-radius: 10px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+
+
+/**/
+
+.appList2{
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    align-items: center;
+    max-width: 50%;
+    width: 900px;
+    max-height: 50%;
+    height: 500px;
+    margin: 30px auto;
+    
+    
+    
+}
+
+.appList2 .itemList{
+    background: #fff;
+    border-radius: 9px;
+    padding: 25px;
+    margin: 30px auto;
+    width: 700px;
+    
+
+}
+
+.appList2 .itemList #btnDeletar{
+background: #6550b7;
+padding: 10px;
+border-radius: 5px;
+border:none;
+color: #fff;
+font-weight: bold;
+width: 160px;
+margin-bottom: 15px;
+cursor: pointer;
+}
+
+.appList2 .itemList #btnAlterar{
+background: #fff;
+padding: 10px;
+border-radius: 5px;
+border:solid 1px;
+color: #6550b7;
+font-weight: bold;
+width: 160px;
+margin-bottom: 15px;
+cursor: pointer;
+border-color: #6550b7;
+margin-right: 20px;
+}
+
+p{
+    color: rgb(88, 86, 86)
+}
+
+
+

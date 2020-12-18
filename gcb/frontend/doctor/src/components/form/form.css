@@ -1,0 +1,97 @@
+
+#form-app{
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    align-items: center;
+    max-width: 50%;
+    width: 900px;
+    max-height: 50%;
+    height: 500px;
+    margin: 30px auto;
+    background: #fff;
+    border-radius: 9px;
+    
+}
+
+#form-app #form form .inputElements{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    align-items: center;
+    align-content: space-between;
+    
+}
+
+#form-app #form form .inputElements #select{
+    padding: 0.01px;
+    width: 595px;
+    border-radius: 5px;
+    outline: none;
+    color: #4b4b4b;
+    margin-bottom: 10px;
+    margin-right: 40px;
+    border-color: black;
+    
+}
+
+
+
+
+
+#form-app #title {
+    margin-bottom: 10px;
+    margin-top: 1px;
+    font-size: 1.5em;
+    font-weight: 400;
+    font-family: 'Pacifico', cursive;
+    
+}
+
+#form-app #form form .inputElements{
+    margin-bottom: 25px;
+    color: #4b4b4b;
+
+}
+
+#form-app #form form .inputElements input{
+    padding: 12px;
+    width: 260px;
+    border-radius: 5px;
+    outline: none;
+    color: #4b4b4b;
+    margin-bottom: 10px;
+    margin-right: 20px;
+
+}
+
+#form-app #form form .inputElements input:not(:placeholder-shown){
+    border: solid 1px #6550b7;
+
+}
+
+#form-app #form form .inputElements input:placeholder-shown{
+    border: solid 0.6px  #bdb9b9;
+}
+
+#form-app #form form .btnCadastrar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#form-app #form form .btnCadastrar button{
+    background: #6550b7;
+    padding: 10px;
+    border-radius: 5px;
+    border:none;
+    color: #fff;
+    font-weight: bold;
+    width: 160px;
+    margin-bottom: 15px;
+    cursor: pointer;
+    
+    
+}
+

@@ -1,0 +1,14 @@
+
+#btnAlterar{
+background: #fff;
+padding: 10px;
+border-radius: 5px;
+border:solid 1px;
+color: #6550b7;
+font-weight: bold;
+width: 160px;
+margin-bottom: 15px;
+cursor: pointer;
+border-color: #6550b7;
+margin-right: 20px;
+}
